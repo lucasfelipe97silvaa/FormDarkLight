@@ -173,7 +173,7 @@
 .dark#login-form{
     color: var(--color-light-50);
     background-color: var(--color-dark-100);
-    animation: light-to-dark-background 0,2s ease-in-out ;
+    animation: light-to-dark-background 0.1s ease-in-out ;
 }
 
 .dark#login-form .input-field input,

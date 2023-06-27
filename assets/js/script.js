@@ -17,16 +17,6 @@ mode.addEventListener('click', () =>{
 
 });
 
-
-
-
-
-
-
-
-
-
-
 const eye = document.querySelector('#eyeview');
 
 const inputPassword = document.querySelector('#password');
